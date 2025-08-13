@@ -60,8 +60,7 @@ body {
 
 /* --- 共通スタイル --- */
 .section-title {
-    font-size: 3rem;
-    font-weight: 700;
+    font-size: 2rem;
     text-align: center;
     margin-bottom: 3rem;
     white-space: nowrap;
